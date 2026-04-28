@@ -1,0 +1,43 @@
+﻿
+> my-app@0.0.0 check
+> tsc -b
+
+src/components/AIChatWidget.tsx(30,17): error TS7006: Parameter 'data' implicitly has an 'any' type.
+src/components/AIChatWidget.tsx(47,15): error TS7006: Parameter 'err' implicitly has an 'any' type.
+src/components/AIChatWidget.tsx(106,32): error TS7006: Parameter 'g' implicitly has an 'any' type.
+src/lib/api.ts(43,29): error TS6133: 'groupId' is declared but its value is never read.
+src/pages/Analytics.tsx(52,28): error TS7006: Parameter 'g' implicitly has an 'any' type.
+src/pages/Analytics.tsx(127,51): error TS7006: Parameter '_entry' implicitly has an 'any' type.
+src/pages/Analytics.tsx(127,59): error TS7006: Parameter 'index' implicitly has an 'any' type.
+src/pages/Dashboard.tsx(121,40): error TS7006: Parameter 'acc' implicitly has an 'any' type.
+src/pages/Dashboard.tsx(121,45): error TS7006: Parameter 'g' implicitly has an 'any' type.
+src/pages/Dashboard.tsx(147,30): error TS7006: Parameter 'g' implicitly has an 'any' type.
+src/pages/Dashboard.tsx(177,33): error TS7006: Parameter 'member' implicitly has an 'any' type.
+src/pages/Dashboard.tsx(272,48): error TS7006: Parameter 'exp' implicitly has an 'any' type.
+src/pages/Expenses.tsx(36,15): error TS7006: Parameter 'err' implicitly has an 'any' type.
+src/pages/Expenses.tsx(53,28): error TS7006: Parameter 'g' implicitly has an 'any' type.
+src/pages/Expenses.tsx(108,26): error TS7006: Parameter 'exp' implicitly has an 'any' type.
+src/pages/GroupDetail.tsx(46,15): error TS7006: Parameter 'err' implicitly has an 'any' type.
+src/pages/GroupDetail.tsx(54,15): error TS7006: Parameter 'err' implicitly has an 'any' type.
+src/pages/GroupDetail.tsx(142,27): error TS7006: Parameter 'exp' implicitly has an 'any' type.
+src/pages/GroupDetail.tsx(176,46): error TS7006: Parameter 'member' implicitly has an 'any' type.
+src/pages/GroupDetail.tsx(214,55): error TS7006: Parameter 'tx' implicitly has an 'any' type.
+src/pages/GroupDetail.tsx(214,59): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/pages/GroupDetail.tsx(270,32): error TS7006: Parameter 'member' implicitly has an 'any' type.
+src/pages/Groups.tsx(26,15): error TS7006: Parameter 'err' implicitly has an 'any' type.
+src/pages/Groups.tsx(118,24): error TS7006: Parameter 'group' implicitly has an 'any' type.
+src/pages/NewExpense.tsx(44,15): error TS7006: Parameter 'err' implicitly has an 'any' type.
+src/pages/NewExpense.tsx(56,30): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/pages/NewExpense.tsx(60,30): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/pages/NewExpense.tsx(67,28): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/pages/NewExpense.tsx(120,29): error TS7006: Parameter 'g' implicitly has an 'any' type.
+src/pages/NewExpense.tsx(186,32): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/pages/NewExpense.tsx(229,32): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/pages/NewExpense.tsx(251,49): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/pages/Notifications.tsx(76,31): error TS7006: Parameter 'notif' implicitly has an 'any' type.
+src/pages/Settlements.tsx(36,15): error TS7006: Parameter 'err' implicitly has an 'any' type.
+src/pages/Settlements.tsx(52,26): error TS7006: Parameter 'g' implicitly has an 'any' type.
+src/pages/Settlements.tsx(61,40): error TS7006: Parameter 'member' implicitly has an 'any' type.
+src/pages/Settlements.tsx(93,47): error TS7006: Parameter 'tx' implicitly has an 'any' type.
+src/pages/Settlements.tsx(93,51): error TS7006: Parameter 'i' implicitly has an 'any' type.
+src/pages/Settlements.tsx(150,29): error TS7006: Parameter 's' implicitly has an 'any' type.

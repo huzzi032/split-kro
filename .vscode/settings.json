@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": ".\\backend\\venv\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "./backend"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}

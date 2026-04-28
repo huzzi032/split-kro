@@ -1,0 +1,2 @@
+ME: 200 - {"name":"Faulttest","email":"fault3705@example.com","avatar":null,"role":"user","id":120,"unionId":"fault3705@example.com","createdAt":"2026-04-28T11:53:45"}
+GROUPS: 200 - []
